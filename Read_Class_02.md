@@ -12,7 +12,7 @@ The article continues to explain how to interact with GitHub.
 ### Visual Studio Code
 The second article is on Visual Studio Code.  It mentions that VS Code is a cross platform program that can run on macOS, Linux and Windows.
 
-The updates for VS Code are monthy and those include new features and also bux fixes. It then tells you how you'd go about updating VS Code. Since I'll mainly be using it on Windows, I'm guessing, I'll look out for the auto update.
+The updates for VS Code are monthly and those include new features and also bug fixes. It then tells you how you'd go about updating VS Code. Since I'll mainly be using it on Windows, I'm guessing, I'll look out for the auto update.
 
 The Lab today had a lot of VS Code in it.  And I feel that it was quite the crash coarse on VS Code.  
 
