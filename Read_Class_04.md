@@ -1,4 +1,4 @@
-#How to Troubleshoot
+# How to Troubleshoot
 
 Information gathering.  Gather as many details as possible. 
 
