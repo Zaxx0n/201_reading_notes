@@ -5,3 +5,4 @@
 - [Read: Class 04](Read_Class_04.md)
 - [Read: Class 05](Read_Class_05.md)
 - [Read: Class 06](Read_Class_06.md)
+- [Read: Class 07](Read_Class_07.md)
