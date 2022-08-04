@@ -1,10 +1,10 @@
 # Powershell
 Why is Powershell important?
 - You can automate or execute advanced operations via terminal in Windows systems 
-- Generally, it is  used by systems administrators and engineerse
-- Attackers use PowerShell to navigate through environemnts, knowing how        
+- Generally, it is  used by systems administrators and engineers
+- Attackers use PowerShell to navigate through environments, knowing how        
     attackers use the tool helps to defend against attacks. 
-- Looks good on a resume 
+- Also, it looks good on a resume! 
 
 
 Generally some of the best practice are to:
