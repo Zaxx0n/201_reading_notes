@@ -20,7 +20,7 @@ Veeam is a free tool for backing up virtual machines in VMware and Hyper-V envir
 > Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even VMware vMOtion or Storage vMotion
 > - works well even in in environments with slow connections or high latency that would prevent VMware vMotion and Hyper-V Live Migration from working
 
-#### **Aditional (v7) Features**
+#### **Additional (v7) Features**
 1. Native tape support - one of the most frequently requested features.
 2. Advanced support for VMware vCloud Director (vCD)
 3. Veeam Explorer for Microsoft SharePoint 
