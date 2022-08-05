@@ -8,3 +8,4 @@
 - [Read: Class 07](Read_Class_07.md)
 - [Read: Class 08](Read_Class_08.md)
 - [Read: Class 09](Read_Class_09.md)
+- [Read: Class 10](Read_Class_10.md)
