@@ -10,3 +10,4 @@
 - [Read: Class 09](Read_Class_09.md)
 - [Read: Class 10](Read_Class_10.md)
 - [Read: Class 11](Read_Class_11.md)
+- [Read: Class 12](Read_Class_12.md)
